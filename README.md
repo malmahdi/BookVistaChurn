@@ -7,5 +7,3 @@ BOOKVISTA wants to better understand its user base and is interested in using ta
 How can BOOKVISTA use advanced analytics to reduce the likelihood of its users leaving the service?
 
 BOOKVISTA would like to be able to predict which of their subscribers are likely to churn within 90 days of beginning a subscription, so that they can intervene somehow to prevent subscriber losses in the future.  BOOKVISTA strongly feels that a machine learning model built using data on subscribers and their actions can help them tackle this challenge. 
-![image](https://github.com/malmahdi/BookVistaChurn/assets/105654588/028ea743-91e9-4361-9417-7e54ae279bd3)
-# BookVistaChurn
